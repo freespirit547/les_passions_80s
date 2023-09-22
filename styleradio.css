@@ -1,6 +1,12 @@
 h1{
     color: #F6AA1C ;
 }
+h2{
+    color: #F6AA1C ;
+}
+a{
+    text-decoration : none;
+}
 body{
     background-color: #AF1707;
 }
